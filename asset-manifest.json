@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//jocrod1.github.io/static/css/main.87ae935f.css",
+    "main.js": "/https//jocrod1.github.io/static/js/main.8d976919.js",
+    "static/js/787.26306fbf.chunk.js": "/https//jocrod1.github.io/static/js/787.26306fbf.chunk.js",
+    "static/media/profile.png": "/https//jocrod1.github.io/static/media/profile.448e671aad56cc793fbf.png",
+    "index.html": "/https//jocrod1.github.io/index.html",
+    "main.87ae935f.css.map": "/https//jocrod1.github.io/static/css/main.87ae935f.css.map",
+    "main.8d976919.js.map": "/https//jocrod1.github.io/static/js/main.8d976919.js.map",
+    "787.26306fbf.chunk.js.map": "/https//jocrod1.github.io/static/js/787.26306fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ae935f.css",
+    "static/js/main.8d976919.js"
+  ]
+}
