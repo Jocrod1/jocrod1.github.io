@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//jocrod1.github.io/static/css/main.87ae935f.css",
-    "main.js": "/https//jocrod1.github.io/static/js/main.8d976919.js",
-    "static/js/787.26306fbf.chunk.js": "/https//jocrod1.github.io/static/js/787.26306fbf.chunk.js",
-    "static/media/profile.png": "/https//jocrod1.github.io/static/media/profile.448e671aad56cc793fbf.png",
-    "index.html": "/https//jocrod1.github.io/index.html",
-    "main.87ae935f.css.map": "/https//jocrod1.github.io/static/css/main.87ae935f.css.map",
-    "main.8d976919.js.map": "/https//jocrod1.github.io/static/js/main.8d976919.js.map",
-    "787.26306fbf.chunk.js.map": "/https//jocrod1.github.io/static/js/787.26306fbf.chunk.js.map"
+    "main.css": "./static/css/main.268d8791.css",
+    "main.js": "./static/js/main.6d3109eb.js",
+    "static/js/787.26306fbf.chunk.js": "./static/js/787.26306fbf.chunk.js",
+    "static/media/profile.png": "./static/media/profile.448e671aad56cc793fbf.png",
+    "index.html": "./index.html",
+    "main.268d8791.css.map": "./static/css/main.268d8791.css.map",
+    "main.6d3109eb.js.map": "./static/js/main.6d3109eb.js.map",
+    "787.26306fbf.chunk.js.map": "./static/js/787.26306fbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87ae935f.css",
-    "static/js/main.8d976919.js"
+    "static/css/main.268d8791.css",
+    "static/js/main.6d3109eb.js"
   ]
 }
