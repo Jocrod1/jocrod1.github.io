@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.268d8791.css",
-    "main.js": "./static/js/main.6d3109eb.js",
+    "main.css": "./static/css/main.4036787f.css",
+    "main.js": "./static/js/main.ac0525be.js",
     "static/js/787.26306fbf.chunk.js": "./static/js/787.26306fbf.chunk.js",
     "static/media/profile.png": "./static/media/profile.448e671aad56cc793fbf.png",
+    "static/media/CV José Pereira.pdf": "./static/media/CV José Pereira.79cf9b83e088d55ac223.pdf",
     "index.html": "./index.html",
-    "main.268d8791.css.map": "./static/css/main.268d8791.css.map",
-    "main.6d3109eb.js.map": "./static/js/main.6d3109eb.js.map",
+    "main.4036787f.css.map": "./static/css/main.4036787f.css.map",
+    "main.ac0525be.js.map": "./static/js/main.ac0525be.js.map",
     "787.26306fbf.chunk.js.map": "./static/js/787.26306fbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.268d8791.css",
-    "static/js/main.6d3109eb.js"
+    "static/css/main.4036787f.css",
+    "static/js/main.ac0525be.js"
   ]
 }
